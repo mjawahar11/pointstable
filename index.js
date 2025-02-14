@@ -60,7 +60,10 @@ function priyafull(){
   document.querySelector(".priyapoint").textContent = updatedPoints;
 }
 
-window.onbeforeunload = function () {return false;}
+window.onbeforeunload = function() {
+  return "Dude, are you sure you want to leave? Think of the kittens!";
+}
+
 
 
 
