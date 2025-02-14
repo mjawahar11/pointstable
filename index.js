@@ -60,7 +60,7 @@ function priyafull(){
   document.querySelector(".priyapoint").textContent = updatedPoints;
 }
 
-
+window.onbeforeunload = function () {return false;}
 
 
 
