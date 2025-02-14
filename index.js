@@ -61,7 +61,7 @@ function priyafull(){
 }
 
 window.onbeforeunload = function() {
-  return "Dude, are you sure you want to leave? Think of the kittens!";
+  return "Think before refreshing";
 }
 
 
