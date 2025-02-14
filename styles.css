@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Verdana", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+.ammapoint,.appapoint,.jawaharpoint,.priyapoint {
+  margin-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100px;
+  color: aliceblue;
+}
+
+
+.name {
+  font-family: "Arvo";
+  color: #DBEDF3;
+  text-shadow: 3px 0 #bd5151;
+}
+
+table {
+  font-size: 4rem;
+
+}
+
+td {
+  width: 30%;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: x-large;
+  font-weight: 800;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  width: 50%;
+  height: 90px;
+  text-align: center;
+  
+}
+
+
